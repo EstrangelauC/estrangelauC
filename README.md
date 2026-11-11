@@ -34,5 +34,5 @@ Some repositories are private because they are client work or products in develo
 
 Open to freelance projects and engineering roles.
 
-- LinkedIn: [estrangelau-cruz](https://www.linkedin.com/in/estrangelau-cruz-86177613a)
+- LinkedIn: [estrangelau-da-cruz](https://www.linkedin.com/in/estrangelau-da-cruz-a00547296)
 - Website: [psygest.com](https://psygest.com/)
